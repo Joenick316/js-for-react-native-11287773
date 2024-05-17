@@ -10,7 +10,6 @@ function processArray(arr) {
     });
 }
 
-
 const inputArray = [1, 2, 3, 4, 5];
 const resultArray = processArray(inputArray);
 console.log(resultArray);
@@ -47,5 +46,6 @@ const numbers = [2, 3, 4, 5, 6];
 
 const formattedStrings = formatArrayStrings(strings, numbers);
 console.log(formattedStrings); 
+
 
 
