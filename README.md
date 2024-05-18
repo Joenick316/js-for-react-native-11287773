@@ -1,6 +1,6 @@
 # js-for-react-native-11287773
 JavaScript Coding Tasks
-Student ID: [YOUR STUDENT ID]
+Student ID - 11287773
 This repository contains three JavaScript coding tasks.
 
 processArray:
